@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewPersonalizadaEj19Bis</string>
+    <string name="titulo">EQUIPOS  1ª DIVISIÓN</string>
+    <string name="labelEquipo">EQUIPO:</string>
+    <string name="labelPuestoEquipo">Clasificación en la liga:</string>
+
+</resources>
